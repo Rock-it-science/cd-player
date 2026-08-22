@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/will/projects/cd-player/build/Release/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

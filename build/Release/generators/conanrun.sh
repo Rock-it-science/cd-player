@@ -1,1 +1,0 @@
-. "/home/will/projects/cd-player/build/Release/generators/conanrunenv-release-x86_64.sh"
